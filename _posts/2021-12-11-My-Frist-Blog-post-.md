@@ -1,5 +1,3 @@
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
+ ```java
+//This is a new starting!
  ```
