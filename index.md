@@ -1,9 +1,6 @@
-Here you can say lots of fun things about your site.
+# 这是一个新的开始！
 
-Maybe say a some things about yourself.
+- ###  不要在该奋斗的年纪选择安逸！
 
-Or maybe what you plan to blog about.
+- ### 不要沉浸在往日的荣光！
 
-
-
-这是一个新的开始
